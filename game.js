@@ -1,4 +1,5 @@
 $(document).ready(function () {
+    alert("Welcome to Simon Game!\n\nInstructions:\n1. Click the 'Start' button to begin.\n2. Simon will show a sequence by lighting up color buttons.\n3. Repeat the sequence by clicking the buttons in the correct order.\n4. Each successful round adds a new color to the sequence.\n5. If you make a mistake, the game will end.\n\nGood luck and have fun!");
 
     let buttonColours = ["red", "blue", "green", "yellow"];
 
